@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DisciteGame.Level.shuffeAutomatico (DisciteGame.Level)() -&gt; ():Level.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "possibleSwaps">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
