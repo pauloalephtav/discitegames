@@ -1,4 +1,4 @@
-#Discite Game
+# Discite Game
 
 Candy Crush style game
 ======================== 
