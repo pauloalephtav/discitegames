@@ -2,7 +2,7 @@
 
 Candy Crush style game
 ======================== 
-Developed in XCODE
+Developed in SWIFT
 
 Analysis and Systems Development - Unatec
 Discipline: Game Mechanics
